@@ -680,7 +680,8 @@ public final class CheckList {
       SillyStringOperationsCheck.class,
       StringReplaceCheck.class,
       BoxedBooleanExpressionsCheck.class,
-      DoubleCheckedLockingAssignmentCheck.class
+      DoubleCheckedLockingAssignmentCheck.class,
+      BitwiseOperatorCheck.class
     );
   }
 
